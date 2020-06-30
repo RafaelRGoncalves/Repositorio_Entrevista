@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Repositorio_Entrevista", "Projeto_Entrevista", "{99C2C026-5659-4598-80BE-1B0F271E44B2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_47213"
+		Debug.AspNetCompiler.PhysicalPath = "Projeto_Entrevista"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_47213\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_47213"
+		Release.AspNetCompiler.PhysicalPath = "Projeto_Entrevista"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_47213\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "47213"
+		SlnRelativePath = "Projeto_Entrevista"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C2C026-5659-4598-80BE-1B0F271E44B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C2C026-5659-4598-80BE-1B0F271E44B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
